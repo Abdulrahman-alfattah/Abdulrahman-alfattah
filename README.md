@@ -1,4 +1,4 @@
-## Hi there 👋
+![animation_500_kxa883sd](https://github.com/user-attachments/assets/c9f9a37c-c61e-43e1-83a6-a4b52465cfd0)## Hi there 👋
 
 <!--
 **Abdulrahman-alfattah/Abdulrahman-alfattah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->![animation_500_kxa883sd](https://github.com/user-attachments/assets/bad69ab0-3c8d-46e3-be3c-7916f1fb3082)
+
