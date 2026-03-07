@@ -12,11 +12,9 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Cool Projects**
-- 🌱 I’m learning **AI & Web Development**
-- 👯 I’m looking to collaborate on **Open Source**
-- 💬 Ask me about **Web**
-- ⚡ Fun fact: **I love coding at night 🌙**
+-  currently working on **Projects**
+-  learning **AI & Web Development**
+-  looking to collaborate on **Open Source**
 
 ### 🌐 Connect with me
 
