@@ -45,12 +45,3 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ![snake gif](https://github.com/Abdulrahman-alfattah/Abdulrahman-alfattah/blob/output/github-contribution-grid-snake.svg)
 
----
-
-### 🧠 Random Dev Quote
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-⭐ From [Abd-Fattah](https://github.com/Abdulrahman-alfattah)
