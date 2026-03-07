@@ -1,17 +1,43 @@
-![animation_500_kxa883sd](https://github.com/user-attachments/assets/c9f9a37c-c61e-43e1-83a6-a4b52465cfd0)## Hi there 👋
+<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h3 align="center">A passionate developer</h3>
 
-<!--
-**Abdulrahman-alfattah/Abdulrahman-alfattah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->![animation_500_kxa883sd](https://github.com/user-attachments/assets/bad69ab0-3c8d-46e3-be3c-7916f1fb3082)
+### 👨‍💻 About Me
 
+- 🔭 I’m currently working on **Web Projects**
+- 🌱 I’m learning **React & Node.js**
+- 💬 Ask me about **JavaScript / Python**
+- 📫 Reach me at **your@email.com**
+
+---
+
+### 🚀 Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+### 🐍 Contribution Snake
+
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
