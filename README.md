@@ -1,43 +1,77 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate developer</h3>
+<h1 align="center">Hi 👋, I'm Abd-Fattah</h1>
+<h3 align="center">Passionate Developer 🚀</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Open+Source+Contributor;Always+learning+new+things" />
 </p>
 
 ---
 
+<img align="right" alt="coding" width="400"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Web Projects**
-- 🌱 I’m learning **React & Node.js**
-- 💬 Ask me about **JavaScript / Python**
-- 📫 Reach me at **your@email.com**
+- 🔭 I’m currently working on **Cool Projects**
+- 🌱 I’m learning **AI & Web Development**
+- 👯 I’m looking to collaborate on **Open Source**
+- 💬 Ask me about **Web**
+- ⚡ Fun fact: **I love coding at night 🌙**
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+<a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
+</p>
 
 ---
 
 ### 🚀 Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-### 🔥 Streak Stats
+### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🐍 Contribution Snake
 
 ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 🧠 Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
