@@ -28,7 +28,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ### 🚀 Languages and Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,cpp" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
 </p>
 
 ---
