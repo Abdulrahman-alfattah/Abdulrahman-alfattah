@@ -18,13 +18,10 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 - 💬 Ask me about **Web**
 - ⚡ Fun fact: **I love coding at night 🌙**
 
----
-
 ### 🌐 Connect with me
 
 <p align="left">
 <a href="https://linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://twitter.com"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://discord.com"><img src="https://skillicons.dev/icons?i=discord" /></a>
 </p>
 
@@ -64,7 +61,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Abd-Fattah/Abdulrahman-alfattah/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -74,4 +71,4 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-⭐ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐ From [Abd-Fattah](https://github.com/Abdulrahman-alfattah)
